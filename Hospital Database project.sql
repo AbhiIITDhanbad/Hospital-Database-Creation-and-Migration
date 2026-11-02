@@ -1,4 +1,4 @@
--- Schema Design
+-- Schema Design.
 -- Here are all the columns of the dataset that I got and separted as per the requirement.
 -- DepartmentID, Department_Name
 -- DoctorID, Name, Specialization, Role, DepartmentID
